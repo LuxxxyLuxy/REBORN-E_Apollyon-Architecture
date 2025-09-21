@@ -1,11 +1,11 @@
 # Reborn-E (Engine) Apollyon Architecture
 
 ## Architectural Designs
-- Base Reborn Engine
-  - Throttle 
-- Reborn-E
-  - Synchronous
-  - Apollyon
+- Base Reborn Engine (ROMO)
+  - Throttle (ROMO-DT2)
+- Reborn-E (SERA)
+  - Synchronous (SERA-RT8)
+  - Apollyon (SERA-XT16)
 
 ### Base Reborn Engine
 Base Reborn Engine has two distinctive features (compared to Reborn-E): 1) Several (**ROAMING**) Executive Components; and 2) Highly Event-Driven. 
