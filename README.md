@@ -2,7 +2,7 @@
 
 ## Architectural Designs
 - Base Reborn Engine (ROMO)
-  - Throttle (ROMO-DT2)
+  - Throttle (ROMO-DT5)
 - Reborn-E (SERA)
   - Synchronous (SERA-RT8)
   - Apollyon (SERA-XT16)
