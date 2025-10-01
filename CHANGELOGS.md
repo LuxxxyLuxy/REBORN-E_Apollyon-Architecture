@@ -6,7 +6,7 @@ v1.43.04
   - It now features 5 API functions: .new, .isEnumItem, .isEnum, .fromRobloxEnum, and .extend.
     - Features production-ready type safety validation and export for ease of coding with IntelliSense.
       - Even better if you use this in VSCode.
-    - Features serialization and deserialization via json.
+    - Features serialization and deserialization via json (no, it's not overkill you absolute doofus'; in fact, it's necessary for all the great DataStore options brought to you).
     - API upon .new then enriches into: GetEnumItems, GetNames, GetValues, GetByName, GetByValue, GetByOrdinal (or known as Index), Contains, ContainsName, IsValidItem, ForEach, ToDataStore, FromDataStore, ToDataStoreName, ToDateStoreValue, FromDataStoreName, FromDataStoreValue, GetCount, GetRandom, Filter, Map, GetNext, and GetPrev.
     - Supports arrays, dictionaries, instances in the form of items, and more.
     - Clear distinction of faulty nil and intentional nil.
