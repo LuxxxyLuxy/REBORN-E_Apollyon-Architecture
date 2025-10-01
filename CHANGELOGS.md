@@ -9,7 +9,7 @@ v1.43.04
     - Features serialization and deserialization via json.
     - API upon .new then enriches into: GetEnumItems, GetNames, GetValues, GetByName, GetByValue, GetByOrdinal (or known as Index), Contains, ContainsName, IsValidItem, ForEach, ToDataStore, FromDataStore, ToDataStoreName, ToDateStoreValue, FromDataStoreName, FromDataStoreValue, GetCount, GetRandom, Filter, Map, GetNext, and GetPrev.
     - Supports arrays, dictionaries, instances in the form of items, and more.
-    - Clear distinction of faulty nil and intention nil.
+    - Clear distinction of faulty nil and intentional nil.
     - Comparative enums; equalizers, iterators, and callbacks.
     - Frozen and Cached tables for maximum performance and low usage of memory.
     - Exactly like Roblox's enumerations, but with a lot more control and flexibility.
