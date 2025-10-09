@@ -17,3 +17,15 @@ v1.43.04
     - *I avoided adding GetRandomWithBias as I feel there's little use for it right now and there's definitely other ways to achieve the same effect. I will probably revisit it a later stage before publishing the Engine.*
 - Entity Component System changed from Matter to JECS; a much more performant and flexibile ECS-library. 
 - Introduced dynamic and more flexibile input detection library; will recode this entirely at a later date.
+
+v1.43.10
+- SeraEnumerations improvements:
+  - Core API Naming Changes.
+  - 4 New API functions.
+  - Integrated DataStore functions with Enum type methods.
+  - Querying & Access Improvements.
+  - Better debugging modes and configuration options.
+  - Safer DataStore methods.
+  - Better type safety and validation.
+  - Huge performance boost (in theory).
+  - More minor integrations like ordinals to EnumItem properties, and others.
