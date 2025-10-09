@@ -18,6 +18,7 @@ v1.43.04
 - Entity Component System changed from Matter to JECS; a much more performant and flexibile ECS-library. 
 - Introduced dynamic and more flexibile input detection library; will recode this entirely at a later date.
 
+
 v1.43.10
 - SeraEnumerations improvements:
   - Core API Naming Changes.
